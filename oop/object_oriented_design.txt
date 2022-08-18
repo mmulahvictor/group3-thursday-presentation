@@ -1,0 +1,20 @@
+- A programs design is a way in which a programmer organizes and arrange its code.
+- By writting  a program that is flexible and accomodate changes, it will be easier to maintain and update.
+
+Basic Design Principles
+1. Single Responsibility Principle
+    classes should have only one reason to change (one responsibility)
+2. Open-Closed Principle
+    classes should be open for extension, but closed for modification (open for extension means that you can add new functionality without changing the existing code)
+3. Liskov Substitution Principle
+    subtypes must be substitutable for their base types (derived classes must be substitutable for their base classes)
+4. Interface Segregation Principle
+    many client-specific interfaces are better than one general-purpose interface (many small interfaces are better than one large interface)
+5. Dependency Inversion Principle
+    depend upon abstractions, not concretions (high-level modules should not depend on low-level modules; both should depend on abstractions)
+6. Abstraction and Don't Repeat Yourself (DRY)
+    avoid duplication of code and data (DRY) and focus on the essential characteristics of an object (abstraction) rather than its implementation details (encapsulation)
+7.Line Limits on Methods and Classes
+    methods should be short and classes should be small (no more than 100 lines of code) to make them easier to understand and maintain (the shorter the method, the easier it is to understand and maintain)
+8. Domain Modeling
+    model the domain (the problem) before you start coding (model the problem before you start coding) and use the model to guide your design (use the model to guide your design) and implementation (use the model to guide your implementation) of the solution. 
