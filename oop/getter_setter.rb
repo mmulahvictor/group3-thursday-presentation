@@ -1,7 +1,7 @@
 #getter and setter methods are used to access the instance variables of a class
 class TeamThanos
     #setter method
-    def info = message
+    def info=(message)
         @my_message = message
     end
     #getter method
@@ -16,3 +16,7 @@ Victor.info = "I am inevitable"
 
 #call the getter method
 puts Victor.info
+
+Oscar = TeamThanos.new
+Oscar.info = "I am strong"
+puts Oscar.info

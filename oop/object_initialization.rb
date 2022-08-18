@@ -13,18 +13,6 @@ child1 = Child.new("oscar")
 puts child1.boy
 
 
-class Dog
-    attr_reader :breed
-
-    def initialize(breed)
-        @breed = breed
-    end
-end
-
-dog1 = Dog.new("Labrador")
-puts dog1.breed
-
-
 class Person
     attr_reader :name, :age
 

@@ -1,15 +1,25 @@
 OOP is based on objects, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. A feature of objects is that an object's procedures can access and often modify the data fields of the object with which they are associated (objects have a notion of "this" or "self"). In OOP, computer programs are designed by making them out of objects that interact with one another.[1] OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
 
-- classes and instances
+1. classes and instances
+        - classes.rb
 
-- 'new' class method
+2. 'new' class method
+        - classes.rb
 
-- instance methods
+3. instance methods
+        - classes.rb
 
-- instance variables and local variables
+4. instance variables and local variables
+        - instance_variables.rb
 
-- setter and getter methods
+5. setter and getter methods
+        - getter_setter.rb
 
-- attribute accessor macros
+6. attribute accessor macros
+        - attribute_reader_and_writer.rb
 
-- setting instance variables from initialize
+7. setting instance variables from initialize
+        - object_initialization.rb
+8. self
+        - self.rb
+        - implicit_self.rb
