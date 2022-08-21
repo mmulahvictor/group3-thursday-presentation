@@ -1,0 +1,4 @@
+- what is inheritance
+-  Implementing class with inherited methods from parent class that has its own unique methods
+- using the 'super' keyword to call the parent class constructor
+- refactoring code to use inheritance
