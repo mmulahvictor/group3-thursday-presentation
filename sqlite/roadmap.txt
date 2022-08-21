@@ -1,0 +1,14 @@
+- SQL insert, select, update and delete
+- SQL queries
+- Table relationships in sqlite
+   -SQL Joins
+    1. One to one
+    2. One to many
+    3. Many to many
+- SQLite database browser
+- SQLite database
+
+
+**What you'll learn**
+- CREATE, INSERT, SELECT, UPDATE, DELETE, DROP, ALTER, TRUNCATE, RENAME, and CREATE TABLE AS SELECT
+- ORDER BY, ASC, DESC, LIMIT, OFFSET, GROUP BY, HAVING, AND, OR, NOT, IN, BETWEEN, LIKE, IS NULL, IS NOT NULL, DISTINCT, UNION, INTERSECT, and EXCEPT
